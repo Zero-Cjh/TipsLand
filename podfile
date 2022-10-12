@@ -1,0 +1,13 @@
+target 'TipsLand' do
+
+use_frameworks!
+
+pod 'SnapKit'
+
+pod 'JHTextField'
+
+pod 'LookinServer', :configurations => ['Debug']
+
+end
+
+
